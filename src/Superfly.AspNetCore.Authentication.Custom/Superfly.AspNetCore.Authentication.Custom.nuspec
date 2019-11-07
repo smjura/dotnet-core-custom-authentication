@@ -1,0 +1,24 @@
+﻿<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <owners>$company$</owners>
+    <projectUrl>$projectUrl$</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <copyright>$copyright$</copyright>
+    <tags>$tags$</tags>
+  <dependencies>
+    <dependency id="Microsoft.AspNetCore.Authentication" Version="2.1.2" />
+    <dependency id="Microsoft.Extensions.Http" Version="2.2.0" />
+    <dependency id="Microsoft.Extensions.Options" Version="2.2.0" />
+    <dependency id="Microsoft.IdentityModel.Protocols" Version="5.5.0" />
+    <dependency id="Microsoft.IdentityModel.Tokens" Version="5.5.0" />
+  </dependencies>
+  </metadata>
+  <files>
+  </files>
+</package>
